@@ -8,11 +8,11 @@ Collaboration Homepage: [https://rl4aa.github.io/](https://rl4aa.github.io/)
 - 2nd RL4AA Workshop, Salzburg, 2024: [Indico page](https://indico.scc.kit.edu/event/3746/)
 - 3rd RL4AA Worshop, Hamburg, 2025: [Indico page](https://indico.scc.kit.edu/event/4216/)
 
-## Tutorials
+## Tutorials & Challenges
 
 - [RL4AA'23 Tutorial](https://github.com/RL4AA/RL4AA23)
 - [RL4AA'24 Tutorial](https://github.com/RL4AA/rl4aa24-tutorial)
-- [RL4AA'25 Tutorial](https://github.com/RL4AA/rl4aa25-tutorial)
+- [RL4AA'25 Challenge](https://github.com/RL4AA/rl4aa25-challenge)
 
 ## Contributing
 
