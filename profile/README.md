@@ -7,6 +7,7 @@ Collaboration Homepage: [https://rl4aa.github.io/](https://rl4aa.github.io/)
 - 1st RL4AA Workshop, Karlsruhe, 2023: [Indico page](https://indico.scc.kit.edu/event/3280/)
 - 2nd RL4AA Workshop, Salzburg, 2024: [Indico page](https://indico.scc.kit.edu/event/3746/)
 - 3rd RL4AA Worshop, Hamburg, 2025: [Indico page](https://indico.scc.kit.edu/event/4216/)
+- 4th RL4AA Worshop, Liverpool, 2026: [Indico page](https://indico.ph.liv.ac.uk/event/2025/)
 
 ## Tutorials & Challenges
 
